@@ -1,0 +1,170 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+a {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+ol,
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+body {
+  font-family: Poppins, sans-serif;
+}
+header {
+  margin: 0px;
+}
+.logo {
+  width: 20%;
+}
+.container {
+  width: 1200px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  overflow: hidden;
+  align-items: center;
+  padding: 10px 0px;
+}
+nav {
+  width: 80%;
+}
+nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+nav ul li a {
+  padding: 0px 50px;
+  text-transform: uppercase;
+  font-size: 22px;
+  color: black;
+}
+
+nav ul li :hover {
+  color: rgb(190, 32, 98);
+  margin-bottom: 1px solid red;
+}
+.banner {
+  background-image: url("../images/banner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 90vh;
+}
+
+section .content {
+  width: 1200px;
+  margin: auto;
+  padding: 80px 0px;
+}
+.content h4 {
+  padding: 10px 0px;
+  color: rgb(95, 93, 93);
+}
+.content h1 {
+  padding: 10px 0px;
+  color: rgb(95, 93, 93);
+}
+.content p {
+  padding-top: 10px;
+  color: rgb(95, 93, 93);
+  line-height: 1.2;
+}
+
+.slot-padding1 {
+  padding-right: 20px;
+}
+
+.slot-padding2 {
+  padding-left: 20px;
+}
+.main-slot {
+  display: flex;
+}
+.slot-img img {
+  width: 600px;
+}
+.slot-2 img {
+  width: 600px;
+}
+
+.slot-content h3 {
+  padding: 10px 0px;
+  color: #5f5d5d;
+}
+.slot-content h1 {
+  padding-bottom: 10px;
+  color: #656464;
+}
+.slot-content p {
+  font-size: 18px;
+  line-height: 1.5;
+  color: black;
+}
+
+footer {
+  margin-top: 20px;
+  background-color: #e9e3e3;
+  padding: 30px;
+}
+
+footer .conditions {
+  width: 40%;
+}
+
+footer .conditions ul {
+  display: flex;
+}
+footer .conditions ul li a {
+  padding: 10px;
+  color: brown;
+}
+
+.conditions ul li :hover {
+  color: rgb(11, 121, 30);
+}
+
+footer .logo {
+  width: 60%;
+}
+
+footer .logo {
+  display: flex;
+  justify-content: flex-end;
+}
+.logo ul {
+  display: flex;
+  /* justify-content: flex-end; */
+}
+footer .logo ul li {
+  padding: 0px 10px;
+  color: brown;
+  font-size: 20px;
+}
+footer .logo ul li a {
+  color: rgb(87, 83, 83);
+}
+
+footer .logo ul li a .fb:hover {
+  color: rgb(81, 81, 233);
+}
+
+footer .logo ul li a .tw:hover {
+  color: rgb(36, 218, 250);
+}
+
+footer .logo ul li a .fb:hover {
+  color: blue;
+}
+
+footer .logo ul li a .ig:hover {
+  color: rgb(168, 58, 219);
+}
