@@ -57,7 +57,7 @@ nav ul li :hover {
   background-image: url("../images/banner.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  height: 90vh;
+  height: 100vh;
 }
 
 section .content {
