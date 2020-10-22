@@ -7,5 +7,5 @@ Author : **Arnob Mahmud**
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/arnobmahmud/Minimo?color=orange&logo=github&style=plastic)](https://github.com/ArnobMahmud/Minimo/releases/tag/v1.0) 
 
 <p align = "center">
-<img src = "https://user-images.githubusercontent.com/60808266/96849012-e96f1600-1476-11eb-85a9-e8ce094b3a98.png"/>
+<img src = "https://user-images.githubusercontent.com/60808266/96904745-5905f500-14b9-11eb-8cec-c8f21a023e21.png"/>
 </
