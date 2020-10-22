@@ -1,4 +1,4 @@
-### # Minimo
+### Minimo
 Minimo : An artistic landing webpage UI.
 
 Author : **Arnob Mahmud**
