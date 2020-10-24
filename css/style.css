@@ -80,8 +80,9 @@ nav ul li :hover {
 section .content {
   width: 1200px;
   margin: auto;
-  padding: 40px 0px;
+  padding: 40px 20px;
 }
+
 .content h4 {
   padding: 15px 0px;
   color: rgb(95, 93, 93);
@@ -99,24 +100,22 @@ section .content {
   font-size: 20px;
 }
 
-.slot-padding1 {
-  padding-right: 20px;
-}
-
-.slot-padding2 {
-  padding-left: 20px;
-}
 .main-slot {
   display: flex;
   overflow: hidden;
 }
+
+.slot-1 {
+  padding: 20px;
+}
 .slot-img img {
+  max-width: 100%;
   width: 600px;
 }
 .slot-2 img {
   width: 600px;
 }
-.slot-content{
+.slot-content {
   padding: 20px 0px;
 }
 .slot-content h3 {
